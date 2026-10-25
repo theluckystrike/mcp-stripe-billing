@@ -1,5 +1,6 @@
 {
   "name": "mcp-stripe-billing",
+  "repository": {"type": "git", "url": "theluckystrike/mcp-stripe-billing.git"},
   "version": "1.0.0",
   "description": "MCP server: stripe-billing",
   "type": "module",
